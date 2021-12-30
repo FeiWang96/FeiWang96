@@ -1,7 +1,4 @@
 ### Hi there 👋
-
-✨ I'm actively looking for research intern opportunities!
-
 A few facts about me ...
 * Graduate student in CS at USC.
 * Member of [LUKA lab](https://luka-group.github.io/).
