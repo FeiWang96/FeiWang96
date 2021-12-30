@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+✨ I'm actively looking for research intern opportunities!
+
+A few facts about me ...
+* Graduate student in CS at USC.
+* Member of [LUKA lab](https://luka-group.github.io/).
+* My primary research interest lies in NLP ([Google Scholar](https://scholar.google.com/citations?user=N1O2KT8AAAAJ)).
+
+
 <!--
 **FeiWang96/FeiWang96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
