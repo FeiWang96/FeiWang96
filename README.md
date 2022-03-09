@@ -1,5 +1,5 @@
 ### Hi there 👋
-* I'm Member of [LUKA lab](https://luka-group.github.io/) at USC.
+* I'm a member of the [LUKA Lab](https://luka-group.github.io/) at USC.
 * My primary research interest lies in NLP ([Google Scholar](https://scholar.google.com/citations?user=N1O2KT8AAAAJ)).
 
 
