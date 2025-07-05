@@ -1,6 +1,7 @@
 ### Hi there 👋
-* I'm a PhD student in the [LUKA Lab](https://luka-group.github.io/) at USC.
-* My primary research interest is robustness in NLP ([Google Scholar](https://scholar.google.com/citations?user=N1O2KT8AAAAJ)).
+* USC Ph.D. 
+* Building trustworthy (multimodal) LLMs
+* More about my research: [Google Scholar](https://scholar.google.com/citations?user=N1O2KT8AAAAJ)
 
 
 <!--
