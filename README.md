@@ -1,6 +1,6 @@
 ### Hi there 👋
-* USC Ph.D. 
-* Building trustworthy (multimodal) LLMs
+* Google Research Scientist & USC Ph.D. 
+* LLM post-training.
 * More about my research: [Google Scholar](https://scholar.google.com/citations?user=N1O2KT8AAAAJ)
 
 
